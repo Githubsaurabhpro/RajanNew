@@ -1,14 +1,16 @@
 class script(object):
     START_TXT = """<b>👋 Hello {}
+    
 My name is нєανєη αυтσƒιℓтєя вσт,
+
 I can provide movies and series.
 
+Powered by: @HeavenForYouAll
+
+Request Group: @HeavenRequest</b>
 
 
-
-
-🔅 Powered by: @HeavenForYouAll
-🎭 Request Group: @HeavenRequest</b>
+ 
 """
     HELP_TXT = """<b>𝖧𝖾𝗅𝗅𝗈 𝖬𝗋. {} 𝖨𝗍'𝗌 𝖬𝗒 𝖧𝖾𝗅𝗉 𝖬𝗈𝖽𝗎𝗅𝖾</b>"""
 
