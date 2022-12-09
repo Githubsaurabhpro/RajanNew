@@ -1,27 +1,27 @@
 class script(object):
-    START_TXT = """<b>👋 Hemlo {}
+    START_TXT = """<b>👋 Hello {}
 
-My name is ᗪᗩᗴᑎᗴᖇYՏ,
-I can provide movies and series, just add me in your group and make me admin!!
+My name is нєανєη αυтσƒιℓтєя вσт,
+I can provide movies and series.
 
-🔅 Powered by: @MovieoCafe
-🎭 Request Group: @MovieoCafe_Request</b>
+🔅 Powered by: @HeavenForYouAll
+🎭 Request Group: @HeavenRequest</b>
 """
     HELP_TXT = """<b>𝖧𝖾𝗅𝗅𝗈 𝖬𝗋. {} 𝖨𝗍'𝗌 𝖬𝗒 𝖧𝖾𝗅𝗉 𝖬𝗈𝖽𝗎𝗅𝖾</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : Dᴀɴᴇɴᴇʀʏs</b>
+    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : нєανєη αυтσƒιℓтєя вσт</b>
 
-<b>✯ Cʜᴀɴɴᴇʟ : MᴏᴠɪᴇᴏCᴀғᴇ</b>
+<b>✯ Cʜᴀɴɴᴇʟ : HeavenForYouAll</b>
 
-<b>✯ Gʀᴏᴜᴘ : MovieoCafe_Request</b>
+<b>✯ Gʀᴏᴜᴘ : HeavenRequest</b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.0.1 [Sᴛᴀʙʟᴇ]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
+- HeavenAutoFilter bot is a closed source project. 
 <b>DEV:</b>
 
-- <a href=https://t.me/rithesh_rkrm_17>『ᴘɪʀᴏ』</a>
-- Source - https://github.com/ritheshrkrm/EvaMaria """
+- <a href=Team Heaven </a>
+- Source - https://youtu.be/dQw4w9WgXcQ """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
