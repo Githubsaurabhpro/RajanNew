@@ -1,8 +1,11 @@
 class script(object):
     START_TXT = """<b>👋 Hello {}
-
 My name is нєανєη αυтσƒιℓтєя вσт,
 I can provide movies and series.
+
+
+
+
 
 🔅 Powered by: @HeavenForYouAll
 🎭 Request Group: @HeavenRequest</b>
